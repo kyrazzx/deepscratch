@@ -111,7 +111,3 @@ This tool is open-source under the MIT License. You can freely modify and distri
 ---
 
 Let the analysis begin! 🚀🎉
-
----
-
-Feel free to adjust this README to match your preferences!
